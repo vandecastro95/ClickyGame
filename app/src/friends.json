@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Jimmy Pesto",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/7/70/Jimmy_pesto_junior.png/revision/latest?cb=20160215225017",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Frond",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/1d/Phillip_Frond.png/revision/latest/scale-to-width-down/150?cb=20150920220653",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor"
+    },
+    {
+      "id": 3,
+      "name": "Louise",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/00/Louise-4.jpg/revision/latest/scale-to-width-down/99?cb=20150727150408",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": 4,
+      "name": "Bob",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/66/Bob-14.jpg/revision/latest/scale-to-width-down/141?cb=20160507102025",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Regular size Rudy",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/8/8d/Regular-Rudy.jpg/revision/latest/scale-to-width-down/200?cb=20160410170923",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas"
+    },
+    {
+      "id": 6,
+      "name": "Tina",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/3e/Tina-7.jpg/revision/latest/scale-to-width-down/169?cb=20150727150852",
+      "occupation": "Student",
+      "location": "Bluffington"
+    },
+    {
+      "id": 7,
+      "name": "Linda",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/38/Linda-3.jpg/revision/latest/scale-to-width-down/139?cb=20150727145925",
+      "occupation": "Looney Toon",
+      "location": "A Rabbit Burrow"
+    },
+    {
+      "id": 8,
+      "name": "Gene",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/9/99/Gene-2.jpg/revision/latest/scale-to-width-down/132?cb=20150727145623",
+      "occupation": "Ladies Man",
+      "location": "Aron City"
+    },
+    {
+      "id": 9,
+      "name": "Teddy",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/ed/Teddy-4.jpg/revision/latest/scale-to-width-down/120?cb=20150727151256",
+      "occupation": "Adventurer",
+      "location": "California"
+    },
+    {
+      "id": 10,
+      "name": "Mort",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/2/25/Mort-3.jpg/revision/latest/scale-to-width-down/124?cb=20150727151116",
+      "occupation": "Cashier",
+      "location": "O-Town, California"
+    },
+    {
+      "id": 11,
+      "name": "Zeke",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/69/Vlcsnap-2013-03-05-10h47m16s100.png/revision/latest/scale-to-width-down/250?cb=20160227013540",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "Gayle",
+      "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/44/Gayle-3.jpg/revision/latest/scale-to-width-down/93?cb=20150727145449",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Under a City Dump"
+    }
+  ]
