@@ -1,0 +1,9 @@
+.container-fluid {
+    overflow: hidden;
+    height: 100px;
+}
+
+.footer {
+    background: goldenrod;
+
+}

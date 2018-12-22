@@ -3,6 +3,7 @@ import friends from "./friends.json";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
+import Footer from "./components/Footer"
 import "./App.css";
 
 class App extends Component {
@@ -65,7 +66,9 @@ class App extends Component {
               </div>
             ))}
           </div>
+          
         </Wrapper>
+        <Footer className="row">Click on an image to earn points, but don't click on any more than once!</Footer>
       </div>
     );
   }

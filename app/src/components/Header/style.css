@@ -4,11 +4,5 @@
     margin-left: 20px;
     font-size: 3rem;
     color: lightgoldenrodyellow;
-    margin-top: 50px;
-  }
-
-.title::after {
-  content: "";
-  font-size: 1rem;
-  text-align: right;
+    margin-top: 35px;
   }
